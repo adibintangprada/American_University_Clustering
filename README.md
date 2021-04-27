@@ -32,4 +32,4 @@ This model contains :
 * Interpretation
 
 ## Result
-This model generates 4 PCA as it's optimum PCA. This 4 components are enough to describe >75% of the variance in the dataset (you can choose up to 4 if you want). This model generates 3 cluster and you can elaborate the interpretation in the code file.
+This model generates 4 PCA as it's optimum PCA. This 4 components are enough to describe >75% of the variance in the dataset (you can choose up to 4 if you want). This model generates 3 cluster and you can elaborate the interpretation in the code file. I suggest you to create EDA (Exploratory Data Analysis) for this model to comprehend your insights for this data.
